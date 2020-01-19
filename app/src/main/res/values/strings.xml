@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Vmail</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Username</string>
+    <string name="nav_header_subtitle">email</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+<!--for  navigation view -->
+    <string name="menu_inbox">Inbox</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+<!--for menu context -->
+    <string name="context_item1">item1</string>
+
+</resources>
